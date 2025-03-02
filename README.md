@@ -16,11 +16,11 @@ If you are developing a production application, we recommend using TypeScript an
   <img
     src="src/assets/task4_image.PNG"
     alt="Alt Text"
-    style="width: 45%; height: 200px; object-fit: cover; margin-right: 10px;"
+    style="width: 45%; height: 400px; object-fit: cover; margin-right: 10px;"
   />
   <img
     src="src/assets/image.PNG"
     alt="Alt Text"
-    style="width: 45%; height: 200px; object-fit: cover;"
+    style="width: 45%; height: 400px; object-fit: cover;"
   />
 </div>
