@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## Image for Todo App Example, it includes Show todos, in progress or completed and delete todo and routing.
 <img src="src/assets/task4_image.PNG" alt="Alt Text" width="50%" />
+<img src="src/assets/image.PNG" alt="Alt Text" width="50%" />
